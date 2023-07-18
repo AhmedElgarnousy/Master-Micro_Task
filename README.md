@@ -12,15 +12,15 @@
 
 
 
-## snapshots of working and wrong examples
+### snapshots of working and wrong examples
+
+![Alt Text](snapshots/img1_working.png)
 
 <img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img1_working.PNG" style="zoom:50%;" />
 
 
 
 <img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img2_working.PNG" style="zoom:50%;" />
-
-
 
 
 
@@ -38,6 +38,8 @@
 
 
 
+
+
 ## Dependencies
 
 ```shell
@@ -48,9 +50,11 @@ pip install pytest-qt
 pip install numpy
 pip install sys
 ```
+
 ## Usage
 
 * Run [main.py](main.py) file.
+
 ```python
 python main.py
 ```
