@@ -14,29 +14,7 @@
 
 ### snapshots of working and wrong examples
 
-![Alt Text](snapshots/img1_working.png)
-
-<img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img1_working.PNG" style="zoom:50%;" />
-
-
-
-<img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img2_working.PNG" style="zoom:50%;" />
-
-
-
-<img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img3_working.PNG" alt="img3_working" style="zoom:50%;" />
-
-
-
-<img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img1_wrongEx.PNG" alt="img1_wrongEx" style="zoom:50%;" />
-
-
-
-<img src="D:\Automotive mechatronics\Freelance\MasterMicro_Intern\Master-Micro_Task\snapshots\img2_wrongEx.PNG" alt="img2_wrongEx" style="zoom:50%;" />
-
-
-
-
+in the snapshots directory
 
 
 
